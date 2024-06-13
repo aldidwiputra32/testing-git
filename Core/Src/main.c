@@ -115,7 +115,7 @@ int main(void)
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
-	   * initial commit 3 >> revisi via master
+	   * initial commit 3 >> revisi via master >> revisi via version 2
 	   * initial commit 4
 	   * initial commit 5
 	  /* VERSION 1
