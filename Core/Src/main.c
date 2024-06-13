@@ -111,6 +111,7 @@ int main(void)
 	  // edited by stm32cubdeide 4
 	  // edited by stm32cubdeide 5
 	  // edited by stm32cubdeide >> add new feature >> improvement feature
+	  // edited by stm32cubdeide 6
 
 	  /* VERSION 2
 	   * initial commit 1
