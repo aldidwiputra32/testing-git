@@ -115,18 +115,9 @@ int main(void)
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
-<<<<<<< Upstream, based on master
 	   * initial commit 3 >> revisi via master
 	   * initial commit 4
 	   * initial commit 5
-	   * initial commit 6
-	   * initial commit 7
-	   * initial commit 8
-=======
-	   * initial commit 3
-	   * initial commit 4
-	   * initial commit 5
->>>>>>> 993c813 testing version 2
 	  /* VERSION 1
 	   * initial commit 1
 	   * initial commit 2
