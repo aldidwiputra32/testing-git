@@ -105,6 +105,9 @@ int main(void)
   {
 	  // initial commit >> initial commit
 	  // edite by github
+	  // edited by stm32cubdeide 1
+	  // edited by stm32cubdeide 2
+	  // edited by stm32cubdeide 3
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
