@@ -110,10 +110,12 @@ int main(void)
 	  // edited by stm32cubdeide 3
 	  // edited by stm32cubdeide 4
 	  // edited by stm32cubdeide 5
+	  // edited by stm32cubdeide >> add new feature
+
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
-	   * initial commit 3
+	   * initial commit 3 >> revisi via master
 	  /* VERSION 1
 	   * initial commit 1
 	   * initial commit 2
