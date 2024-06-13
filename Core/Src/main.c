@@ -104,6 +104,7 @@ int main(void)
   while (1)
   {
 	  // initial commit >> initial commit
+	  // edite by github
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
