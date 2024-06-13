@@ -108,6 +108,8 @@ int main(void)
 	  // edited by stm32cubdeide 1
 	  // edited by stm32cubdeide 2
 	  // edited by stm32cubdeide 3
+	  // edited by stm32cubdeide 4
+	  // edited by stm32cubdeide 5
 	  /* VERSION 2
 	   * initial commit 1
 	   * initial commit 2
