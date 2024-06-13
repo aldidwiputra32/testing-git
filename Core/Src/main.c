@@ -104,8 +104,8 @@ int main(void)
   while (1)
   {
 	  // initial commit
-	  /*
-	   * version 1
+	  /* VERSION 1
+	   * initial commit 1
 	   */
     /* USER CODE END WHILE */
 
